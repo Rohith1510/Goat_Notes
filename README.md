@@ -1,20 +1,36 @@
-# AI Notes App Tutorial
+# The Goat Notes – AI-Powered Smart Note-Taking  
 
-My links:
+## Inspiration  
+We wanted to create a smarter way for students and professionals to manage their notes. Traditional note-taking can be time-consuming and unorganized, so we leveraged AI to make learning more efficient.  
 
-- Full Tutorial 👉 https://youtu.be/S8JuA0IBBPc
-- Personal 👉 https://coleblender.com
-- Business 👉 https://superlativesites.com
-- YouTube 👉 https://youtube.com/@coleblender
-- GitHub 👉 https://github.com/ColeBlender
-- X 👉 https://x.com/ColeBlender
-- LinkedIn 👉 https://linkedin.com/in/cole-blender
+## What it does  
+The Goat Notes **summarizes, optimizes, and organizes** notes using AI, making studying, revision, and preparation seamless. It helps users focus on key concepts without information overload.  
 
-Helpful docs:
+## How we built it  
+We developed the platform using:  
+- **Next.js** & **TypeScript** for a fast, scalable frontend  
+- **Tailwind CSS** for a sleek UI  
+- **OpenAI** for AI-powered summaries  
+- **Prisma** & **Supabase** for database management  
+- **Vercel** for seamless deployment  
 
-- https://ui.shadcn.com/docs/installation/next
-- https://supabase.com/docs/guides/auth/server-side/nextjs
-- https://www.prisma.io/docs/orm/overview/introduction/what-is-prisma
-- https://www.prisma.io/docs/orm/more/help-and-troubleshooting/nextjs-help
-- https://platform.openai.com/docs/overview
-- https://platform.openai.com/docs/guides/text-generation
+## Challenges we ran into  
+- Fine-tuning AI-generated summaries for accuracy  
+- Optimizing performance while handling large datasets  
+- Integrating real-time collaboration features  
+
+## Accomplishments that we're proud of  
+- Successfully integrating AI to enhance note-taking  
+- Building an intuitive and efficient user experience  
+- Deploying a fully functional, scalable app  
+
+## What we learned  
+- Best practices for AI integration in productivity apps  
+- Optimizing databases for real-time data management  
+- Enhancing user experience with minimalistic design principles  
+
+## What's next for The Goat Notes  
+- Adding voice-to-text note-taking  
+- Personalized AI recommendations for study efficiency  
+- Mobile app development for better accessibility  
+
