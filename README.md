@@ -12,7 +12,7 @@ We developed the platform using:
 - **🎨 Tailwind CSS** for a sleek UI  
 - **🧠 OpenAI** for AI-powered summaries  
 - **🗄️ Prisma & Supabase** for database management  
-- **🚀 Vercel** for seamless deployment  
+
 
 ## ⚡ Challenges we ran into  
 - **🧐 Fine-tuning AI-generated summaries** for accuracy  
